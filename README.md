@@ -31,6 +31,7 @@ virtualMachines:
 YAML attributes:
 
 - See variables.tf for all the supported YAML attributes.
+- See [aws_instance](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance) for attribute descriptions.
 
 Combine with the following modules to get a complete infrastructure defined by YAML:
 
